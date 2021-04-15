@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Big-voss
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Python, JAVA
 - 💞️ I’m looking to collaborate on ...
 - 📫 My email: zong_zhaobin@qq.com  / zong_zhaobin@163.com
 <!---
