@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 My email: zong zhaobin@qq.com
+- 📫 My email: zong_zhaobin@qq.com
 
 <!---
 Big-voss/Big-voss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
